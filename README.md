@@ -19,3 +19,4 @@ You have THREE hours to complete this project by adding the following:
 6. Add the all the routes that provide the mapping between HTTP verbs and URLs to controller actions. **YOU ARE NOT ALLOWED TO USE the `resource` METHOD.** All the routes have to be defined manually.
 
 7. For unit testing, you are provided with contexts (test/contexts.rb). You will have to create the factories that create default objects for a User, a Room and a Booking (in test/factories).
+# Exam2
